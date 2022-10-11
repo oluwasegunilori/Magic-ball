@@ -16,6 +16,7 @@
 		701D162B28DE1E700067402E /* Magic_ballTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701D162A28DE1E700067402E /* Magic_ballTests.swift */; };
 		701D163528DE1E700067402E /* Magic_ballUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701D163428DE1E700067402E /* Magic_ballUITests.swift */; };
 		701D163728DE1E700067402E /* Magic_ballUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701D163628DE1E700067402E /* Magic_ballUITestsLaunchTests.swift */; };
+		707A7AF028F61BBA003B8833 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 707A7AEF28F61BBA003B8833 /* README.md */; };
 		70EFD49128E20D0A00083C0D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 70EFD49028E20D0A00083C0D /* .gitignore */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +51,7 @@
 		701D163028DE1E700067402E /* Magic ballUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Magic ballUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		701D163428DE1E700067402E /* Magic_ballUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic_ballUITests.swift; sourceTree = "<group>"; };
 		701D163628DE1E700067402E /* Magic_ballUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic_ballUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		707A7AEF28F61BBA003B8833 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		70EFD49028E20D0A00083C0D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -81,6 +83,7 @@
 		701D160728DE1E6F0067402E = {
 			isa = PBXGroup;
 			children = (
+				707A7AEF28F61BBA003B8833 /* README.md */,
 				70EFD49028E20D0A00083C0D /* .gitignore */,
 				701D161228DE1E6F0067402E /* Magic ball */,
 				701D162928DE1E700067402E /* Magic ballTests */,
@@ -236,6 +239,7 @@
 			files = (
 				70EFD49128E20D0A00083C0D /* .gitignore in Resources */,
 				701D162028DE1E6F0067402E /* LaunchScreen.storyboard in Resources */,
+				707A7AF028F61BBA003B8833 /* README.md in Resources */,
 				701D161D28DE1E6F0067402E /* Assets.xcassets in Resources */,
 				701D161B28DE1E6F0067402E /* Main.storyboard in Resources */,
 			);
